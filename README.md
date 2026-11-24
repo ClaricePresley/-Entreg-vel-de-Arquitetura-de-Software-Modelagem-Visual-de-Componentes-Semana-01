@@ -1,1 +1,1 @@
-# -Entreg-vel-de-Arquitetura-de-Software-Modelagem-Visual-de-Componentes-Semana-01
+# -Entregável-de-Arquitetura-de-Software-Modelagem-Visual-de-Componentes-Semana-01
